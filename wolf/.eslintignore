@@ -1,0 +1,7 @@
+**/*.d.ts
+node_modules
+**/*.spec.(ts|tsx)
+**/*.stories.tsx
+**/__mocks__/**
+**/mocks/**
+metro.config.js
